@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+
+    <string name="et_login_email">E-Mail</string>
+    <string name="et_login_password">Şifre</string>
+    <string name="btn_login_login">Giriş Yap</string>
+    <string name="tv_login_notregistered">Kayıtlı değil misiniz?</string>
+
+    <string name="et_register_email">E-Mail</string>
+    <string name="et_register_password">Şifre</string>
+    <string name="et_register_repassword">Tekrar Şifre</string>
+    <string name="btn_register_register">Kayıt Ol</string>
+    <string name="tv_register_registered">Zaten kayıtlı mısınız?</string>
+
+    <string name="et_chat_message">Mesaj giriniz</string>
+    <string name="btn_chat_send">Gönder</string>
+</resources>
